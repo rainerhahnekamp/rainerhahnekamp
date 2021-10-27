@@ -7,3 +7,8 @@
 - Protractor is dead, long live Cypress!: [Part 1](https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress/), [Part 2](https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress-part-2/)
 - [Why you don't need web components in Angular](https://www.rainerhahnekamp.com/en/why-you-dont-need-web-components/)
 
+📺 My latest videos:
+- [NgRx createFeature method](https://youtu.be/lj7YLi4abOQ)
+- [NgRx Best Practices Series)(https://youtu.be/yYiO-kjmLAc)
+
+📣 [ng-news](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw): Updates of the Angular Community in 100 seconds every week
