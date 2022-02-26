@@ -5,6 +5,7 @@
     <td>
 📕 Blog Posts:
       <ul>
+        <li><a href="https://www.rainerhahnekamp.com/en/angular-standalone-components-and-their-impact-on-modularity/">Angular Standalone Components and their impact on modularity</a></li>
 <li>NgRx Best Practices Series
   <ul>
         
