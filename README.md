@@ -12,7 +12,7 @@
     <li><a href="https://www.rainerhahnekamp.com/en/ngrx-best-practices-series-0-introduction/">0: Introduction</a></li>
     <li><a href="https://www.rainerhahnekamp.com/en/ngrx-best-practices-series-1-cache-loadstatus/">1: Cache & LoadStatus</a></li>
     <li><a href="https://www.rainerhahnekamp.com/en/ngrx-best-practices-series-2-modularity/">2: Modularity</a></li>
-    </div>
+    </ul>
           </li>
   <li>Protractor is dead, long live Cypress!: <a href="https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress/">Part 1</a>, <a href="https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress-part-2/">Part 2</a></li>
           <li><a href="https://www.rainerhahnekamp.com/en/why-you-dont-need-web-components/">Why you don't need web components in Angular</a>
