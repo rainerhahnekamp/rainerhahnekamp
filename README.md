@@ -29,7 +29,7 @@
           </ul>
         </div>
       <div>
-        📣 <a href="https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw">ng-news</a>: Updates of the Angular Community in 100 seconds every week
+        📣 <a href="https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw">ng-news</a>: Updates from the Angular Community in 100 seconds every week
       </div>
     </div>
 </div>
