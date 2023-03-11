@@ -20,6 +20,11 @@
       <div>
   📺 YouTube Videos:
         <ul>
+          <li><a href="https://youtu.be/4Mkm0Z9RGR0">Angular 15</a></li>
+          <li><a href="https://youtu.be/MUJBT3Pb_Eg">Type-Safe TypeScript with Type Narrowing</a></li>
+          <li><a href="https://youtu.be/eFQ_So1t-Yg">Angular 14.2</a></li>
+          <li><a href="https://youtu.be/KviZy1t3w6Y">Angular 14.1</a></li>
+          <li><a href="https://youtu.be/wbsTfi4V0Jw">Cypress Component Testing</a></li>
           <li><a href="https://youtu.be/g836yoZ2y6o">Migrating / Updating to Angular 14</a></li>
           <li><a href="https://youtu.be/rproG1_TCek">Angular Standalone Components and their impact on Modularity</a></li>
           <li><a href="https://youtu.be/01NK1uHXXcE">Deep Linking within a Single Component</a></li>
