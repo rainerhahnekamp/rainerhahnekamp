@@ -1,6 +1,4 @@
-# Rainer Hahnekamp
-
-## Production AI Engineering for Application Teams
+<img src="./assets/profile-cover.svg" alt="Rainer Hahnekamp — Production AI Engineering for Application Teams" width="100%">
 
 I am an AI engineer at [Soverius AI](https://soverius.ai). I build agentic applications and AI-powered software-engineering workflows, with a strong focus on architectures that can move beyond the prototype stage.
 

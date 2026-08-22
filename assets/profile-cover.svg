@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Rainer Hahnekamp — Production AI Engineering for Application Teams</title>
+  <desc id="desc">Soverius AI profile banner highlighting Agentic Applications, Agentic Software Engineering, and Local and Sovereign AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061326"/>
+      <stop offset="0.55" stop-color="#0a1d38"/>
+      <stop offset="1" stop-color="#12335e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4b87c7"/>
+      <stop offset="1" stop-color="#f28b3c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4b87c7" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#4b87c7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#79aee0" stroke-opacity="0.06"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1080" cy="155" rx="270" ry="220" fill="url(#glow)"/>
+  <path d="M0 316H1280" stroke="url(#accent)" stroke-width="8"/>
+
+  <g fill="none" stroke="#72b9ec" stroke-linecap="round">
+    <path d="M938 77C1008 105 1027 155 1085 166S1186 159 1246 210" stroke-opacity="0.24" stroke-width="2"/>
+    <path d="M905 233C968 200 1005 198 1045 206S1128 249 1215 235" stroke-opacity="0.18" stroke-width="2"/>
+    <path d="M1030 31C1034 92 1060 119 1110 133S1199 124 1278 84" stroke-opacity="0.15" stroke-width="2"/>
+  </g>
+  <g fill="#8bd3ff" filter="url(#softGlow)">
+    <circle cx="938" cy="77" r="4"/>
+    <circle cx="1085" cy="166" r="6"/>
+    <circle cx="1246" cy="210" r="4"/>
+    <circle cx="905" cy="233" r="4"/>
+    <circle cx="1045" cy="206" r="4"/>
+    <circle cx="1215" cy="235" r="5"/>
+    <circle cx="1030" cy="31" r="3"/>
+    <circle cx="1110" cy="133" r="4"/>
+  </g>
+
+  <text x="64" y="60" fill="#8fbce4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="3">RAINER HAHNEKAMP</text>
+  <text x="64" y="125" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="47" font-weight="750" letter-spacing="-1.2">Production AI Engineering</text>
+  <text x="64" y="173" fill="#dce9f7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="450">for Application Teams</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="600">
+    <rect x="64" y="218" width="205" height="42" rx="21" fill="#3268b0" fill-opacity="0.32" stroke="#5c9cdd" stroke-opacity="0.55"/>
+    <text x="166.5" y="244" fill="#e9f4ff" text-anchor="middle">Agentic Applications</text>
+    <rect x="282" y="218" width="263" height="42" rx="21" fill="#3268b0" fill-opacity="0.25" stroke="#5c9cdd" stroke-opacity="0.45"/>
+    <text x="413.5" y="244" fill="#e9f4ff" text-anchor="middle">Agentic Software Engineering</text>
+    <rect x="558" y="218" width="214" height="42" rx="21" fill="#f28b3c" fill-opacity="0.14" stroke="#f4a261" stroke-opacity="0.55"/>
+    <text x="665" y="244" fill="#fff0e5" text-anchor="middle">Local &amp; Sovereign AI</text>
+  </g>
+
+  <g transform="translate(1032 88) scale(.16)">
+    <g transform="matrix(4.16667,0,0,4.16667,576.658,870.363)"><path d="M0,-171.904C-19.825,-168.125 -33.281,-163.926 -42.237,-159.788L-42.237,-134.349C-21.993,-128.592 17.536,-117.101 20.844,-100.381C24.997,-79.383 3.692,-64.086 -26.054,-58.535C-30.542,-57.697 -36.081,-57.255 -42.237,-57.101L-42.237,4.589C-41.194,5.059 -40.601,5.307 -40.601,5.307L-40.243,5.455L-39.885,5.307C-39.885,5.307 53.112,-33.092 57.912,-118.89L57.912,-175.014C46.625,-177.112 28.619,-177.359 0,-171.904" fill="#4b87c7"/></g>
+    <g transform="matrix(4.16667,0,0,4.16667,355.506,216.947)"><path d="M0,19.181C1.937,19.983 6.668,21.277 12.834,23.039L12.834,-3.858C-11.123,6.469 -6.157,16.632 0,19.181" fill="#2c54a1"/></g>
+    <g transform="matrix(-2.69749,3.17563,3.17563,2.69749,458.578,714.461)"><path d="M40.381,-87.284C57.866,-35.429 40.499,18.314 40.499,18.314L40.381,18.682L-7.344,-21.858C9.813,-40.626 30.605,-72.022 40.381,-87.284" fill="#2c54a1"/></g>
+    <g transform="matrix(4.16667,0,0,4.16667,400.669,560.086)"><path d="M0,-36.108L0,0C39.103,-14.615 30.785,-22.417 30.785,-22.417C30.785,-22.417 26.413,-27.275 0,-36.108" fill="#4b87c7"/></g>
+    <g transform="matrix(4.16667,0,0,4.16667,410.47,123.393)"><path d="M0,-29.614C-0.123,-29.614 -0.235,-29.601 -0.358,-29.601C-0.481,-29.601 -0.592,-29.614 -0.716,-29.614C-1.269,-29.614 -1.803,-29.601 -2.352,-29.598L-2.352,-2.754C26.503,-9.861 54.555,-10.031 81.68,-3.698C88.111,-2.197 93.412,-0.984 97.797,0L97.797,-4.415C97.797,-9.815 62.998,-29.614 0,-29.614" fill="#4b87c7"/></g>
+    <g transform="matrix(4.16667,0,0,4.16667,351.613,482.838)"><path d="M0,-85.757C4.61,-87.184 9.198,-89.492 13.768,-89.492L13.768,-115.867C13.645,-115.868 13.534,-115.881 13.41,-115.881C-49.588,-115.881 -84.387,-96.081 -84.387,-90.681L-84.387,-25.883C-83.409,-8.407 -78.771,7.101 -72.006,20.721C-56.303,24.169 -19.507,30.124 11.025,18.823C11.975,18.471 12.872,18.127 13.768,17.783L13.768,-16.891C6.03,-19.531 -3.707,-22.542 -15.997,-25.907C-67.387,-39.975 -33.01,-75.541 0,-85.757" fill="#2c54a1"/></g>
+  </g>
+  <text x="1150" y="253" fill="#dce9f7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="2" text-anchor="middle">SOVERIUS AI</text>
+</svg>
