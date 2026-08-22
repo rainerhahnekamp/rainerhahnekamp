@@ -1,40 +1,30 @@
-![Rainer Hahnekamp](https://github.com/rainerhahnekamp/rainerhahnekamp/blob/3eb6b36ce4339dade8915e6c28ecf721114edb71/GitHub.jpg)
+# Rainer Hahnekamp
 
-<div style="display: flex; justify-content: space-evenly">
-    <div>
-      <div>
-  📕 Blog Posts:
-        <ul>
-          <li><a href="https://www.rainerhahnekamp.com/en/angular-standalone-components-and-their-impact-on-modularity/">Angular Standalone Components and their impact on modularity</a></li>
-  <li>NgRx Best Practices Series 
-  <ul>
-      <li><a href="https://www.rainerhahnekamp.com/en/ngrx-best-practices-series-0-introduction/">0: Introduction</a></li>
-   <li><a href="https://www.rainerhahnekamp.com/en/ngrx-best-practices-series-1-cache-loadstatus/">1: Cache & LoadStatus</a></li>
-       <li><a href="https://www.rainerhahnekamp.com/en/ngrx-best-practices-series-2-modularity/">2: Modularity</a></li>
-  </ul>
-          </li>
-  <li>Protractor is dead, long live Cypress!: <a href="https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress/">Part 1</a>, <a href="https://www.rainerhahnekamp.com/en/angular-e2e-testing-protractor-is-dead-long-live-cypress-part-2/">Part 2</a></li>
-          <li><a href="https://www.rainerhahnekamp.com/en/why-you-dont-need-web-components/">Why you don't need web components in Angular</a>
-        </ul>
-    </div>
-      <div>
-  📺 YouTube Videos:
-        <ul>
-          <li><a href="https://youtu.be/4Mkm0Z9RGR0">Angular 15</a></li>
-          <li><a href="https://youtu.be/MUJBT3Pb_Eg">Type-Safe TypeScript with Type Narrowing</a></li>
-          <li><a href="https://youtu.be/eFQ_So1t-Yg">Angular 14.2</a></li>
-          <li><a href="https://youtu.be/KviZy1t3w6Y">Angular 14.1</a></li>
-          <li><a href="https://youtu.be/wbsTfi4V0Jw">Cypress Component Testing</a></li>
-          <li><a href="https://youtu.be/g836yoZ2y6o">Migrating / Updating to Angular 14</a></li>
-          <li><a href="https://youtu.be/rproG1_TCek">Angular Standalone Components and their impact on Modularity</a></li>
-          <li><a href="https://youtu.be/01NK1uHXXcE">Deep Linking within a Single Component</a></li>
-          <li><a href="https://youtu.be/IpC-s8tGALo">NgRx Best Practices: Episode 3: Routing &amp; other deferrals</a></li>
-          <li><a href="https://youtu.be/lj7YLi4abOQ">NgRx createFeature method</a></li>
-          <li><a href="https://youtu.be/yYiO-kjmLAc">NgRx Best Practices Series</a></li>
-          </ul>
-        </div>
-      <div>
-        📣 <a href="https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw">ng-news</a>: Updates from the Angular Community in 100 seconds every week
-      </div>
-    </div>
-</div>
+## Production AI Engineering for Application Teams
+
+I am an AI engineer at [Soverius AI](https://soverius.ai). I build agentic applications and AI-powered software-engineering workflows, with a strong focus on architectures that can move beyond the prototype stage.
+
+My foundation is application engineering. I am a [Google Developer Expert](https://developers.google.com/community/experts), a member of the [NgRx](https://github.com/ngrx/platform) core team, and a co-maintainer of the Angular integration in [CopilotKit](https://github.com/CopilotKit/CopilotKit). Angular is where I have built deep expertise; the systems and engineering problems I work on are not limited to one frontend framework.
+
+### What I work on
+
+- **Agentic Applications** — agents, generative UI, AG-UI, A2UI, MCP Apps, shared application state, tool use, and human approval.
+- **Agentic Software Engineering** — coding agents, context and harness engineering, tools, skills, evaluations, and reliable feedback loops.
+- **Local & Sovereign AI** — model evaluation, local inference, privacy, deployment, cost control, and hybrid local/cloud architectures.
+
+### Selected engineering work
+
+| Project | What it demonstrates |
+| --- | --- |
+| [CopilotKit](https://github.com/CopilotKit/CopilotKit) | Production-oriented agentic applications and generative UI across frontend frameworks |
+| [Angular A2UI MacroQuest](https://github.com/Soverius-AI/angular-a2ui-macroquest) | An Angular reference application combining A2UI, agents, and generative interfaces |
+| [Software Development Workflow with Local LLMs](https://github.com/Soverius-AI/software-development-workflow-local-llms) | A durable software-engineering workflow built around coding agents and local models |
+| [NgRx](https://github.com/ngrx/platform) | State management and application architecture for Angular |
+| [Testronaut](https://github.com/testronaut/testronaut) | Modern frontend testing with Playwright |
+| [Sheriff](https://github.com/softarc-consulting/sheriff) | Lightweight, enforceable module boundaries for TypeScript projects |
+
+### Research, teaching, and community
+
+I turn engineering work into open-source examples, articles, talks, workshops, and architecture guidance. I also run [ng-news](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw), a weekly video update for the Angular community.
+
+[Soverius AI](https://soverius.ai) · [Articles](https://www.rainerhahnekamp.com) · [ng-news on YouTube](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw)
