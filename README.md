@@ -2,9 +2,11 @@
   <img src="./assets/profile-cover.svg" alt="Rainer Hahnekamp — Production AI Engineering for Application Teams" width="100%">
 </a>
 
-I am an AI engineer at [Soverius AI](https://soverius.ai). I build agentic applications and AI-powered software-engineering workflows, with a strong focus on architectures that can move beyond the prototype stage.
+👋 Hello, I'm Rainer. I’m an application engineer with deep roots in Angular. Today, much of my work revolves around AI: building agentic systems such as agentic UIs, designing software-development workflows with coding agents, and applying local LLMs where they make sense.
 
-My foundation is application engineering. I am a [Google Developer Expert](https://developers.google.com/community/experts), a member of the [NgRx](https://github.com/ngrx/platform) core team, and a co-maintainer of the Angular integration in [CopilotKit](https://github.com/CopilotKit/CopilotKit). Angular is where I have built deep expertise; the systems and engineering problems I work on are not limited to one frontend framework.
+Much of this work comes together at [Soverius AI](https://soverius.ai).
+
+I’m a [Google Developer Expert](https://developers.google.com/community/experts), a member of the [NgRx](https://github.com/ngrx/platform) core team, and a co-maintainer of [CopilotKit](https://github.com/CopilotKit/CopilotKit)’s Angular integration. Angular remains an important part of my work, but AI increasingly takes my work across the entire stack—from frontend and backend to models and infrastructure.
 
 ### What I work on
 
