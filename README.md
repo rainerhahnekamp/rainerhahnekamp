@@ -23,6 +23,6 @@ My foundation is application engineering. I am a [Google Developer Expert](https
 
 ### Research, teaching, and community
 
-I turn engineering work into open-source examples, articles, talks, workshops, and architecture guidance. I also run [ng-news](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw), a weekly video update for the Angular community.
+I turn engineering work into open-source examples, articles, talks, workshops, and architecture guidance. On [my YouTube channel](https://www.youtube.com/@RainerHahnekamp), I publish deeper engineering videos for my established developer audience. I also run [ng-news](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw), a weekly video update for the Angular community.
 
-[Soverius AI](https://soverius.ai) · [Articles](https://www.rainerhahnekamp.com) · [ng-news on YouTube](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw)
+[Soverius AI](https://soverius.ai) · [YouTube](https://www.youtube.com/@RainerHahnekamp) · [Articles](https://www.rainerhahnekamp.com) · [ng-news](https://www.youtube.com/channel/UCpNgAFB5-_3WSHD_olBv7nw)
