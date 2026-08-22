@@ -8,12 +8,6 @@ Much of this work comes together at [Soverius AI](https://soverius.ai).
 
 I’m a [Google Developer Expert](https://developers.google.com/community/experts), a member of the [NgRx](https://github.com/ngrx/platform) core team, and a co-maintainer of [CopilotKit](https://github.com/CopilotKit/CopilotKit)’s Angular integration. Angular remains an important part of my work, but AI increasingly takes my work across the entire stack—from frontend and backend to models and infrastructure.
 
-### What I work on
-
-- **Agentic Applications** — agents, generative UI, AG-UI, A2UI, MCP Apps, shared application state, tool use, and human approval.
-- **Agentic Software Engineering** — coding agents, context and harness engineering, tools, skills, evaluations, and reliable feedback loops.
-- **Local & Sovereign AI** — model evaluation, local inference, privacy, deployment, cost control, and hybrid local/cloud architectures.
-
 ### Selected engineering work
 
 | Project | What it demonstrates |
